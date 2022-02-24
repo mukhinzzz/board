@@ -1,2 +1,1 @@
-# board
-A board :)
+# Just a little board for relax :)
